@@ -18,11 +18,12 @@ Whether you’re a long-time fan or just discovering TWICE, OnceVerse celebrates
 
 | Page | Description |
 |------|--------------|
-| **Home** | Welcomes visitors with a TWICE banner, latest news, and featured comeback teaser. |
+| **Home** | Welcomes visitors with a TWICE banner, along with special homepage navigation buttons that provide quick access to key sections like About, Members, Discography, and Gallery. |
+| **About** | Explains the group’s formation, milestones, and achievements from 2015 to present. |
 | **Members** | Displays profiles of all nine members — photos, birthdays, positions, and fun facts. |
 | **Discography** | Lists albums, title tracks, and release years with album cover previews. |
 | **Gallery** | Contains photos, music videos, and highlight clips from concerts or performances. |
-| **About TWICE** | Explains the group’s formation, milestones, and achievements from 2015 to present. |
+
 
 ---
 
