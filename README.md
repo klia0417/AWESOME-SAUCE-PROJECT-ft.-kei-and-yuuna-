@@ -1,7 +1,7 @@
 # 💫 OnceVerse
 ### "Your ultimate guide to TWICE"
 
-![OnceVerse Logo](logo.png)
+![OnceVerse Logo](images/logo.png)
 
 ---
 
@@ -24,6 +24,24 @@ Whether you’re a long-time fan or just discovering TWICE, OnceVerse celebrates
 | **Discography** | Lists albums, title tracks, and release years with album cover previews. |
 | **Gallery** | Contains photos, music videos, and highlight clips from concerts or performances. |
 
+---
+
+# TWICE Website Wireframes
+
+## Home Page
+![Home Page Wireframe](images/home.png)
+
+## About Page
+![About Page Wireframe](images/about.png)
+
+## Members Page
+![Members Page Wireframe](images/members.png)
+
+## Discography Page
+![About Page Wireframe](images/discography.png)
+
+## Gallery Page
+![About Page Wireframe](images/gallery.png)
 
 ---
 
