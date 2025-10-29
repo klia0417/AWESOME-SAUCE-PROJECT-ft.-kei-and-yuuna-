@@ -1,5 +1,5 @@
 # 💫 OnceVerse
-### "Your ultimate guide to TWICE — from debut to destiny."
+### "Your ultimate guide to TWICE"
 
 ![OnceVerse Logo](logo.png)
 
